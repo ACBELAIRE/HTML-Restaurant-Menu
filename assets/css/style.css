@@ -84,12 +84,5 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
-.nav-link {
-    color: green;
-}
-
-.nav-item>a:hover {
-    color: green;
-}
 
 
